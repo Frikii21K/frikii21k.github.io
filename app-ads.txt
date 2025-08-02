@@ -1,1 +1,14 @@
+# Google AdMob
 google.com, pub-6698953011563236, DIRECT, f08c47fec0942fa0
+
+# Vungle / Liftoff Monetize
+vungle.com, 6874b2b1a0186b1c1df81004, RESELLER
+
+# InMobi
+inmobi.com, 10000072516, RESELLER
+
+# ironSource
+ironsrc.com, 22c05c055, RESELLER
+
+# Meta Audience Network (Facebook)
+facebook.com, 753592637175330, RESELLER
