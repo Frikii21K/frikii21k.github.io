@@ -6,9 +6,9 @@ vungle.com, 6874b1e92743210011611094, RESELLER
 
 # InMobi
 inmobi.com, aaf19d9634ee4762a287cb833b3c3555, DIRECT, 83e75a7ae333ca9d
-
+ 
 # ironSource
-ironsrc.com, 22c05c055, RESELLER
+ironsrc.com, 387627, RESELLER
 
 # Meta Audience Network (Facebook)
 facebook.com, 753592637175330, RESELLER
