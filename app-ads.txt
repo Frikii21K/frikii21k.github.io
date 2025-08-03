@@ -5,7 +5,7 @@ google.com, pub-6698953011563236, DIRECT, f08c47fec0942fa0
 vungle.com, 6874b1e92743210011611094, RESELLER
 
 # InMobi
-inmobi.com, 10000072516, RESELLER
+inmobi.com, aaf19d9634ee4762a287cb833b3c3555, DIRECT, 83e75a7ae333ca9d
 
 # ironSource
 ironsrc.com, 22c05c055, RESELLER
